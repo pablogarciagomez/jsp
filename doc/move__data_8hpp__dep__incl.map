@@ -1,0 +1,5 @@
+<map id="metaheuristics/utils/move_data.hpp" name="metaheuristics/utils/move_data.hpp">
+<area shape="rect" id="node1" title="Struture to communicate the problems with the local search algorithms." alt="" coords="92,5,227,47"/>
+<area shape="rect" id="node2" href="$tabu__search__fixed__length_8hpp.html" title="Tabu search with a fixed length tabu list." alt="" coords="5,95,148,151"/>
+<area shape="rect" id="node3" href="$tabu__search__variable__length_8hpp.html" title="Tabu search with a variable length tabu list." alt="" coords="172,95,315,151"/>
+</map>

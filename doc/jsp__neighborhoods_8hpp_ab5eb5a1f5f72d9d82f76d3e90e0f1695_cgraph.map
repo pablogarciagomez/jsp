@@ -1,0 +1,7 @@
+<map id="EstimateTotalWeightedTardiness" name="EstimateTotalWeightedTardiness">
+<area shape="rect" id="node1" title="Estimates the total weighted tardiness that results of changing the order of a group of tasks in the ..." alt="" coords="5,78,219,105"/>
+<area shape="rect" id="node2" href="$namespacestd.html#aabf08e25820a0127a265bb20575664b9" title=" " alt="" coords="267,78,340,105"/>
+<area shape="rect" id="node3" href="$classTriangularFuzzyNumber.html#afe61a993d8d969f858845dbb6b5eb7a0" title="Returns the smallest possible value." alt="" coords="388,5,548,47"/>
+<area shape="rect" id="node4" href="$classTriangularFuzzyNumber.html#ac79e432898eb12448e54d085295a09f9" title="Returns the most probable value." alt="" coords="388,71,548,112"/>
+<area shape="rect" id="node5" href="$classTriangularFuzzyNumber.html#a0133fef04fbb1a8e571d117c01c6af71" title="Returns the largest possible value." alt="" coords="388,136,548,177"/>
+</map>

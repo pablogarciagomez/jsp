@@ -1,0 +1,6 @@
+<map id="std::max" name="std::max">
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,79,105"/>
+<area shape="rect" id="node2" href="$classTriangularFuzzyNumber.html#afe61a993d8d969f858845dbb6b5eb7a0" title="Returns the smallest possible value." alt="" coords="127,5,287,47"/>
+<area shape="rect" id="node3" href="$classTriangularFuzzyNumber.html#ac79e432898eb12448e54d085295a09f9" title="Returns the most probable value." alt="" coords="127,71,287,112"/>
+<area shape="rect" id="node4" href="$classTriangularFuzzyNumber.html#a0133fef04fbb1a8e571d117c01c6af71" title="Returns the largest possible value." alt="" coords="127,136,287,177"/>
+</map>

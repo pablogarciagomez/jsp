@@ -1,0 +1,5 @@
+<map id="JSPTotalWeightedTardinessMinimizationSolution::GetCriticalTasks" name="JSPTotalWeightedTardinessMinimizationSolution::GetCriticalTasks">
+<area shape="rect" id="node1" title="Inserts in a container the tasks that are critical in this schedule." alt="" coords="5,39,252,80"/>
+<area shape="rect" id="node2" href="$classJSPTotalWeightedTardinessMinimizationSolution.html#a223b298444c077682038c4716d1f032f" title="Returns the problem that the solution solves." alt="" coords="300,5,519,47"/>
+<area shape="rect" id="node3" href="$classJSPTotalWeightedTardinessMinimizationSolution.html#aedc447ee0c6a7baa7f112f3fd7895b23" title="Checks if two numbers are equal." alt="" coords="303,71,515,112"/>
+</map>

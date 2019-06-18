@@ -1,0 +1,6 @@
+<map id="JSPMakespanMinimizationSolution::SolutionSequence" name="JSPMakespanMinimizationSolution::SolutionSequence">
+<area shape="rect" id="node1" title="Returns a string with the solution." alt="" coords="5,39,232,80"/>
+<area shape="rect" id="node2" href="$classJSPMakespanMinimizationSolution.html#a4b5965dd69809fb79768a5f4c462920b" title="Inserts in a container all the tasks in topological order." alt="" coords="280,5,507,47"/>
+<area shape="rect" id="node4" href="$classJSPMakespanMinimizationSolution.html#a6a196bbd5a7a0a1bbeb6ab46721a5027" title="Returns the problem that the solution solves." alt="" coords="280,71,507,112"/>
+<area shape="rect" id="node3" href="$classJSPMakespanMinimizationSolution.html#a07f32775230bfb3a2ccd4f44f7bffb6a" title="Returns a pair with the tasks that are scheduled after the specified task. The first component is the..." alt="" coords="555,5,781,47"/>
+</map>

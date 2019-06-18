@@ -1,0 +1,6 @@
+<map id="metaheuristics/utils/local_search_logger.hpp" name="metaheuristics/utils/local_search_logger.hpp">
+<area shape="rect" id="node1" title="Logger for local search algorithms." alt="" coords="240,5,405,47"/>
+<area shape="rect" id="node2" href="$memetic__algorithm_8hpp.html" title="Memetic Algorithm." alt="" coords="5,102,227,143"/>
+<area shape="rect" id="node3" href="$tabu__search__fixed__length_8hpp.html" title="Tabu search with a fixed length tabu list." alt="" coords="251,95,394,151"/>
+<area shape="rect" id="node4" href="$tabu__search__variable__length_8hpp.html" title="Tabu search with a variable length tabu list." alt="" coords="418,95,561,151"/>
+</map>

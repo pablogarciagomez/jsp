@@ -1,0 +1,6 @@
+<map id="read_standard_due_dates" name="read_standard_due_dates">
+<area shape="rect" id="node1" title="Reads a JSP instance with due dates in standard format." alt="" coords="5,56,176,83"/>
+<area shape="rect" id="node2" href="$classJSP.html#a45cc7bfa121f2b83565f7a6133d3ab39" title="Adds a job to the problem." alt="" coords="238,5,337,32"/>
+<area shape="rect" id="node3" href="$classJSP.html#a308c6e99ad53a7df52f216e7afeb539f" title="Adds a machine to the problem." alt="" coords="224,56,351,83"/>
+<area shape="rect" id="node4" href="$classJSP.html#ac30ab6c08498fddbb7fe9ee9f935c5fd" title="Adds a task to the problem after the last task of the specified job to be proccesed in the specified ..." alt="" coords="234,107,341,133"/>
+</map>

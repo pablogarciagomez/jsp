@@ -1,0 +1,4 @@
+<map id="JSPMakespanMinimizationSolution::ApplyMove" name="JSPMakespanMinimizationSolution::ApplyMove">
+<area shape="rect" id="node1" title="Applies a move to the solution." alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node2" href="$classJSPMakespanMinimizationSolution.html#a24ee72f4d6dbe9c6062b47adfc7656ff" title="Exchanges the position of two tasks in the same machine. This method only checks that both tasks belo..." alt="" coords="280,5,507,47"/>
+</map>

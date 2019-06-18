@@ -1,0 +1,1 @@
+The files `bindviz.js` `doxyviz.js` `index.html` `logo.png` and `svgpan.js` are part of [Doxygraph](https://github.com/jitsuCM/doxygraph) and subject to the terms of the Mozilla Public License version 2.0

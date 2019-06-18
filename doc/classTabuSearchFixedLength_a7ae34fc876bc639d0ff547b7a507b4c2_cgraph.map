@@ -1,0 +1,10 @@
+<map id="TabuSearchFixedLength::FindSolution" name="TabuSearchFixedLength::FindSolution">
+<area shape="rect" id="node1" title="Finds a solution to a problem using a tabu search metaheuristic with a fixed length tabu list." alt="" coords="5,140,168,181"/>
+<area shape="rect" id="node2" href="$classLocalSearchLogger.html#a21d895d4ddc94e2664e1f0d8bcd8fd95" title="Sets the initial solution." alt="" coords="217,5,358,47"/>
+<area shape="rect" id="node3" href="$neighborhoods_8hpp.html#ac99360b58624982b5a4477075904dfc8" title="Inserts in a container all the neighbors of a solution." alt="" coords="236,71,339,98"/>
+<area shape="rect" id="node4" href="$classTabuList.html#a676b3872d4fd499fab11750bf71c5232" title="Pushes the element to the end of the tabu list removing the element at the front if the tabu list is ..." alt="" coords="216,122,359,149"/>
+<area shape="rect" id="node6" href="$classTabuList.html#a8f65dd6528a10ca1037455f64d3ed9b2" title="Checks if the element is in the tabu list." alt="" coords="222,173,353,199"/>
+<area shape="rect" id="node7" href="$classLocalSearchLogger.html#a00cf6f5c674a5f72c5bf01c4662a283d" title="Adds a log." alt="" coords="217,224,358,265"/>
+<area shape="rect" id="node8" href="$classLocalSearchLogger.html#a19dca66de1099beddc9f962f21a81c00" title="Sets the best solution found by the algorithm." alt="" coords="217,289,358,331"/>
+<area shape="rect" id="node5" href="$classTabuList.html#a5cda682bba8562695d6e8859f879f6be" title="Removes the element at the front of the tabu list." alt="" coords="407,122,509,149"/>
+</map>

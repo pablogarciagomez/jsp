@@ -1,0 +1,6 @@
+<map id="MemeticAlgorithm::FindSolution" name="MemeticAlgorithm::FindSolution">
+<area shape="rect" id="node1" title="Finds a solution to a problem using a memetic algorithm metaheuristic." alt="" coords="5,78,212,105"/>
+<area shape="rect" id="node2" href="$classEvolutionaryAlgorithmLogger.html#ae822a61759d79afe34fee23f481e54c7" title="Adds a log." alt="" coords="260,5,448,47"/>
+<area shape="rect" id="node3" href="$classLocalSearchLogger.html#a00cf6f5c674a5f72c5bf01c4662a283d" title="Adds a log." alt="" coords="283,71,425,112"/>
+<area shape="rect" id="node4" href="$classEvolutionaryAlgorithmLogger.html#ad95f3ff09d1a88ce9e21ca0ccc2b2baf" title="Sets the best solution found by the algorithm." alt="" coords="260,136,448,177"/>
+</map>

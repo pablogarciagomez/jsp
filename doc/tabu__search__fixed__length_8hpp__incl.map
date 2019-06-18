@@ -1,0 +1,14 @@
+<map id="metaheuristics/tabu_search/tabu_search_fixed_length.hpp" name="metaheuristics/tabu_search/tabu_search_fixed_length.hpp">
+<area shape="rect" id="node1" title="Tabu search with a fixed length tabu list." alt="" coords="270,5,413,61"/>
+<area shape="rect" id="node2" href="$local__search__logger_8hpp.html" title="Logger for local search algorithms." alt="" coords="5,109,171,151"/>
+<area shape="rect" id="node5" href="$move__data_8hpp.html" title="Struture to communicate the problems with the local search algorithms." alt="" coords="195,109,330,151"/>
+<area shape="rect" id="node6" href="$neighborhoods_8hpp.html" title="Functions to manage neighborhoods." alt="" coords="354,109,489,151"/>
+<area shape="rect" id="node8" href="$tabu__list_8hpp.html" title="Tabu List." alt="" coords="522,109,657,151"/>
+<area shape="rect" id="node3" title=" " alt="" coords="21,199,75,225"/>
+<area shape="rect" id="node4" title=" " alt="" coords="100,199,159,225"/>
+<area shape="rect" id="node7" title=" " alt="" coords="375,199,449,225"/>
+<area shape="rect" id="node9" title=" " alt="" coords="474,199,531,225"/>
+<area shape="rect" id="node10" title=" " alt="" coords="556,199,623,225"/>
+<area shape="rect" id="node11" title=" " alt="" coords="647,199,751,225"/>
+<area shape="rect" id="node12" title=" " alt="" coords="775,199,828,225"/>
+</map>

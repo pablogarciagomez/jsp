@@ -1,0 +1,5 @@
+<map id="GOX::Cross" name="GOX::Cross">
+<area shape="rect" id="node1" title="Inserts in a container the genes of the two offsprings resulting of crossing the specified parent chr..." alt="" coords="5,5,99,32"/>
+<area shape="rect" id="node2" href="$classGOX.html#ab70ecd48b47ed3e6eb2542f8cb936ac5" title="Implants some genes of a chromosome into another chromosome to generate a new chromosome that combine..." alt="" coords="147,5,248,32"/>
+<area shape="rect" id="node3" href="$container__utils_8hpp.html#a5d09d801c406be3b34bcb828910b04ce" title="A mix of std::copy_if and std::transform." alt="" coords="296,5,405,32"/>
+</map>

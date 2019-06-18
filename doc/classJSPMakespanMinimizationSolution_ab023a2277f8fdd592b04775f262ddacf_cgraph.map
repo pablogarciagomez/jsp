@@ -1,0 +1,12 @@
+<map id="JSPMakespanMinimizationSolution::GetHead" name="JSPMakespanMinimizationSolution::GetHead">
+<area shape="rect" id="node1" title="Returns the head of the specified task." alt="" coords="5,123,232,164"/>
+<area shape="rect" id="node2" href="$classJSPMakespanMinimizationSolution.html#a7675bd800df0dcafd2579563b0745ce8" title="Updates the head and tail of all the tasks that have been affected by modifications since the last ca..." alt="" coords="280,123,507,164"/>
+<area shape="rect" id="node3" href="$classJSPMakespanMinimizationSolution.html#a4b5965dd69809fb79768a5f4c462920b" title="Inserts in a container all the tasks in topological order." alt="" coords="555,5,781,47"/>
+<area shape="rect" id="node4" href="$classJSPMakespanMinimizationSolution.html#a07f32775230bfb3a2ccd4f44f7bffb6a" title="Returns a pair with the tasks that are scheduled after the specified task. The first component is the..." alt="" coords="829,28,1056,69"/>
+<area shape="rect" id="node5" href="$classJSPMakespanMinimizationSolution.html#acb6b836e6ccea549562ec0e2ae0e2d7b" title="Returns a pair with the tasks that are scheduled before the specified task. The first component is th..." alt="" coords="555,123,781,164"/>
+<area shape="rect" id="node6" href="$namespacestd.html#aabf08e25820a0127a265bb20575664b9" title=" " alt="" coords="631,189,705,215"/>
+<area shape="rect" id="node10" href="$classJSPMakespanMinimizationSolution.html#a6a196bbd5a7a0a1bbeb6ab46721a5027" title="Returns the problem that the solution solves." alt="" coords="555,240,781,281"/>
+<area shape="rect" id="node7" href="$classTriangularFuzzyNumber.html#afe61a993d8d969f858845dbb6b5eb7a0" title="Returns the smallest possible value." alt="" coords="863,116,1023,157"/>
+<area shape="rect" id="node8" href="$classTriangularFuzzyNumber.html#ac79e432898eb12448e54d085295a09f9" title="Returns the most probable value." alt="" coords="863,181,1023,223"/>
+<area shape="rect" id="node9" href="$classTriangularFuzzyNumber.html#a0133fef04fbb1a8e571d117c01c6af71" title="Returns the largest possible value." alt="" coords="863,247,1023,288"/>
+</map>

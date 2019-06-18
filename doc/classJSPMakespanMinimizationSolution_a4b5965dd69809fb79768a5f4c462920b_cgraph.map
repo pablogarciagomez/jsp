@@ -1,0 +1,4 @@
+<map id="JSPMakespanMinimizationSolution::GetTasksTopologicalOrder" name="JSPMakespanMinimizationSolution::GetTasksTopologicalOrder">
+<area shape="rect" id="node1" title="Inserts in a container all the tasks in topological order." alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node2" href="$classJSPMakespanMinimizationSolution.html#a07f32775230bfb3a2ccd4f44f7bffb6a" title="Returns a pair with the tasks that are scheduled after the specified task. The first component is the..." alt="" coords="280,5,507,47"/>
+</map>

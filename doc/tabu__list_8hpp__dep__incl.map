@@ -1,0 +1,5 @@
+<map id="metaheuristics/utils/tabu_list.hpp" name="metaheuristics/utils/tabu_list.hpp">
+<area shape="rect" id="node1" title="Tabu List." alt="" coords="92,5,227,47"/>
+<area shape="rect" id="node2" href="$tabu__search__fixed__length_8hpp.html" title="Tabu search with a fixed length tabu list." alt="" coords="5,95,148,151"/>
+<area shape="rect" id="node3" href="$tabu__search__variable__length_8hpp.html" title="Tabu search with a variable length tabu list." alt="" coords="172,95,315,151"/>
+</map>

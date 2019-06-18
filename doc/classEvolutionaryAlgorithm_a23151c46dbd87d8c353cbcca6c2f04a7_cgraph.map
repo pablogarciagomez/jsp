@@ -1,0 +1,5 @@
+<map id="EvolutionaryAlgorithm::FindSolution" name="EvolutionaryAlgorithm::FindSolution">
+<area shape="rect" id="node1" title="Finds a solution to a problem using a evolutionary algorithm metaheuristic." alt="" coords="5,39,155,80"/>
+<area shape="rect" id="node2" href="$classEvolutionaryAlgorithmLogger.html#ae822a61759d79afe34fee23f481e54c7" title="Adds a log." alt="" coords="203,5,391,47"/>
+<area shape="rect" id="node3" href="$classEvolutionaryAlgorithmLogger.html#ad95f3ff09d1a88ce9e21ca0ccc2b2baf" title="Sets the best solution found by the algorithm." alt="" coords="203,71,391,112"/>
+</map>
